@@ -21,5 +21,5 @@
     and display its assumption in the console.
 
     The software recognizes the following languages: English, Polish, Spanish.
-    The AI guess uses an algorithm A single-layer perceptron network
+    The AI guess uses an algorithm single-layer perceptron network
     and is based on training files in the data directory
